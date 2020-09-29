@@ -1,0 +1,6 @@
+.btn-toolbar .btn{
+    margin-right: 200px;
+}
+.btn-toolbar .btn:last-child{
+    margin-right: 0;
+}
